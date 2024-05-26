@@ -1,4 +1,4 @@
-# Renars GAusisn
+# Renars Gausins
 
 ## Project setup
 ```
